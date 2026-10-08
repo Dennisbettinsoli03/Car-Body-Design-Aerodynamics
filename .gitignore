@@ -1,0 +1,12 @@
+# MATLAB autosave and editor backups
+*.asv
+*.m~
+
+# STAR-CCM+ simulation files (too large for GitHub, need a licence to open)
+*.sim
+*.sim~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
